@@ -2,7 +2,7 @@ using System.ComponentModel;
 using System.Runtime.InteropServices;
 
 namespace PostNote;
-
+//测试git
 public class StickyNoteForm : Form
 {
     private const int BorderPadding = 6;
