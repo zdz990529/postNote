@@ -1,7 +1,7 @@
 using System.ComponentModel;
 
 namespace PostNote;
-
+//测试git push 到github
 public class MainForm : Form
 {
     public static MainForm? Instance { get; private set; }
