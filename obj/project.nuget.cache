@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Jna4m8O5d/k=",
+  "success": true,
+  "projectFilePath": "D:\\C#project\\postNote\\postNote.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\98018\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,17 @@
+D:\C#project\postNote\obj\Debug\net9.0-windows\postNote.csproj.AssemblyReference.cache
+D:\C#project\postNote\obj\Debug\net9.0-windows\postNote.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#project\postNote\obj\Debug\net9.0-windows\postNote.AssemblyInfoInputs.cache
+D:\C#project\postNote\obj\Debug\net9.0-windows\postNote.AssemblyInfo.cs
+D:\C#project\postNote\obj\Debug\net9.0-windows\postNote.csproj.CoreCompileInputs.cache
+D:\C#project\postNote\bin\Debug\net9.0-windows\postNote.exe
+D:\C#project\postNote\bin\Debug\net9.0-windows\postNote.deps.json
+D:\C#project\postNote\bin\Debug\net9.0-windows\postNote.runtimeconfig.json
+D:\C#project\postNote\bin\Debug\net9.0-windows\postNote.dll
+D:\C#project\postNote\bin\Debug\net9.0-windows\postNote.pdb
+D:\C#project\postNote\bin\Debug\net9.0-windows\Newtonsoft.Json.dll
+D:\C#project\postNote\obj\Debug\net9.0-windows\postNote.csproj.Up2Date
+D:\C#project\postNote\obj\Debug\net9.0-windows\postNote.dll
+D:\C#project\postNote\obj\Debug\net9.0-windows\refint\postNote.dll
+D:\C#project\postNote\obj\Debug\net9.0-windows\postNote.pdb
+D:\C#project\postNote\obj\Debug\net9.0-windows\postNote.genruntimeconfig.cache
+D:\C#project\postNote\obj\Debug\net9.0-windows\ref\postNote.dll
